@@ -1,0 +1,79 @@
+{
+	"flags":[
+
+		#Earth Federation Connected
+		{
+			"logo":"graphics/factions/Earth_Federation/Earth_Federation_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/Earth_Federation_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Earth_Federation/EFF_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/EFF_Crest.png"
+		},
+		
+		# Zeon
+		{
+			"logo":"graphics/factions/Zeon/Autonomous_Republic_of_Munzo_Flag.png",
+			"crest":"graphics/factions/Zeon/Autonomous_Republic_of_Munzo_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Zeon/Neo_Zeon_Flag.png",
+			"crest":"graphics/factions/Zeon/Neo_Zeon_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Zeon/Principality_of_Zeon_Flag.png",
+			"crest":"graphics/factions/Zeon/Principality_of_Zeon_Crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/Zeon/Principality_of_Zeon_Alt_Flag.png",
+			"crest":"graphics/factions/Zeon/Principality_of_Zeon_Alt_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Zeon/Zeon_Mars_Flag.png",
+			"crest":"graphics/factions/Zeon/Zeon_Mars_Crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/Zeon/Black_Tri_Stars_Flag.png",
+			"crest":"graphics/factions/Zeon//Black_Tri_Stars_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Zeon/Chimera_Corps_Flag.png",
+			"crest":"graphics/factions/Zeon/Chimera_Corps_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Zeon/Cyclops_Team_Flag.png",
+			"crest":"graphics/factions/Zeon/Cyclops_Team_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Zeon/Invisible_Knights_Flag.png",
+			"crest":"graphics/factions/Zeon/Invisible_Knights_Crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/Zeon/Midnight_Fenrir_Corps_Flag.png",
+			"crest":"graphics/factions/Zeon/Midnight_Fenrir_Corps_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Zeon/Southern_Cross_Corps_Flag.png",
+			"crest":"graphics/factions/Zeon/Southern_Cross_Corps_Crest.png"
+		},
+		
+		
+		# Origin
+		{
+			"logo":"graphics/factions/Origin_and_Other/Earth_Federation_Origin_Flag.png",
+			"crest":"graphics/factions/Origin_and_Other/Earth_Federation_Origin_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Origin_and_Other/EFF_Origin_Flag.png",
+			"crest":"graphics/factions/Origin_and_Other/EFF_Origin_Crest.png"
+		},	
+		
+		# Other
+
+	],
+}
+
+

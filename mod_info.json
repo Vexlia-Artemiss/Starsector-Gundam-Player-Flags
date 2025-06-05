@@ -1,0 +1,9 @@
+{
+	"id":"Vexlia_Gundam_UC_Origin_PFP", # internal id
+	"name":"Gundam Flag Collection - UC & Origin", # displayed to the player
+    "author": "Vexlia Artemiss",
+	"utility": false,
+	"version":"1.0 - Mostly Zeon",
+	"description":"Bringing in Starsector more of what so many lust over so much - flags of cource! Now from Gundam universe, specifically UC and Origin.\n\nSpecial thanks to Gundam Wiki for their great wiki and SarjaFan for an idea",
+	"gameVersion":"0.98a",
+}
