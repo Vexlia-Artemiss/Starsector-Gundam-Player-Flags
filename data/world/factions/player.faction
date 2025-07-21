@@ -21,11 +21,6 @@
 			"crest":"graphics/factions/Zeon/Neo_Zeon_Crest.png"
 		},
 		{
-			"logo":"graphics/factions/Zeon/Principality_of_Zeon_Flag.png",
-			"crest":"graphics/factions/Zeon/Principality_of_Zeon_Crest.png"
-		},
-		
-		{
 			"logo":"graphics/factions/Zeon/Principality_of_Zeon_Alt_Flag.png",
 			"crest":"graphics/factions/Zeon/Principality_of_Zeon_Alt_Crest.png"
 		},
