@@ -10,6 +10,46 @@
 			"logo":"graphics/factions/Earth_Federation/EFF_Flag.png",
 			"crest":"graphics/factions/Earth_Federation/EFF_Crest.png"
 		},
+		{
+			"logo":"graphics/factions/Earth_Federation/AEUG_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/AEUG_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Earth_Federation/Aggressor_Squadron_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/Aggressor_Squadron_Crest.png"
+		},		
+		{
+			"logo":"graphics/factions/Earth_Federation/ECOAS_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/ECOAS_Crest.png"
+		},		
+		{
+			"logo":"graphics/factions/Earth_Federation/Londo_Bell_93_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/Londo_Bell_93_Crest.png"
+		},		
+		{
+			"logo":"graphics/factions/Earth_Federation/Londo_Bell_96_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/Londo_Bell_96_Crest.png"
+		},		
+		{
+			"logo":"graphics/factions/Earth_Federation/Moore_Brotherhood_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/Moore_Brotherhood_Crest.png"
+		},		
+		{
+			"logo":"graphics/factions/Earth_Federation/Slave_Wraith_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/Slave_Wraith_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Earth_Federation/Tri_Stars_Team_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/Tri_Stars_Team_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Earth_Federation/White_Dingo_Team_Alt_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/White_Dingo_Team_Alt_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/Earth_Federation/Phantom_Sweep_Corps_Flag.png",
+			"crest":"graphics/factions/Earth_Federation/Phantom_Sweep_Corps_Crest.png"
+		},
 		
 		# Zeon
 		{
